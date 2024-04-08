@@ -1,0 +1,22 @@
+file79
+file79
+
+package
+com.next-NextRunner.java - @Runwith(cucumber.class) - @Cucumberoption(Feature = ".")
+
+
+feature- Search.feature -Feature - Scenario - Given - When - Then 
+steps - Search.java 
+
+Webdriver driver;
+
+@Given
+
+Webdriver driver = New Edgedriver;
+driver.get();
+driver.manage().maximize().window();
+
+driver.Findelement(By Xpath)
+
+driver.close()
+
